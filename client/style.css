@@ -1,0 +1,12 @@
+body {
+    background-color: #092E20 ;
+    color: white;
+    font-family: monospace;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 40%;
+  }
